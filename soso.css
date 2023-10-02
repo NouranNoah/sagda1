@@ -1,0 +1,44 @@
+.img1{
+    position: relative;
+    float: right;
+    width: 50%;
+}
+.p1{
+    position:absolute;
+    width: 80px;
+    font-weight: bold;
+    color: rgb(8, 102, 170);
+    margin-left: 20px;
+    margin-top: 20%;
+    background-color: rgba(106, 156, 237, 0.246);
+    box-shadow: 20px 20px 20px -16px rgba(144, 144, 199, 0.719);
+}
+.div2 {
+    display: inline-block;
+    margin: 10px 30px;
+}
+.img2{
+    position: relative;
+    float: left;
+    width: 50%;
+}
+.p2{
+    position:absolute;
+    width: 80px;
+    font-weight: bold;
+    color: rgb(8, 102, 170);
+    margin-left: 50%;
+    margin-top: 20%;
+    background-color: rgba(106, 156, 237, 0.246);
+    box-shadow: 20px 20px 20px -16px rgba(144, 144, 199, 0.719);
+}
+.all{
+    background-color: bisque;
+}
+.arp{
+    font-weight: bold;
+    color: darkblue;
+    width: 150px;
+    font-style: italic;
+    float: right;
+}
